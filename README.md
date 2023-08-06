@@ -1,1 +1,1 @@
-# DC-and-Servo-Motor
+# Servo Motor Descrption
